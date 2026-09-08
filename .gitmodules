@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "golosovRST"]
 	path = golosovRST
-	url = https://github.com/cran/golosovRST
+	url = https://github.com/federico00taddei/golosovrst
